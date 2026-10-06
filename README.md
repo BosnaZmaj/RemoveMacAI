@@ -2,6 +2,10 @@
   <img src="docs/hero.png" alt="RemoveMacAI" width="840">
 </p>
 
+<p align="center">
+  <a href="https://trendshift.io/repositories/275773?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-275773" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/275773/daily?language=Swift" alt="omlahore%2FRemoveMacAI | Trendshift" width="250" height="55"/></a> <a href="https://trendshift.io/repositories/275773?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-275773" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/275773/weekly?language=Swift" alt="omlahore%2FRemoveMacAI | Trendshift" width="250" height="55"/></a>
+</p>
+
 # RemoveMacAI
 
 Turn off Apple Intelligence on macOS 27 and remove its downloaded models.
